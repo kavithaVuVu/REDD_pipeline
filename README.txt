@@ -20,4 +20,4 @@ The script will output statistics as well as a final Nifti file. The file can be
 NOTE: There is a Nextflow version of the shell script available in this package. While we were not able to make this work, the code has been provided for future researchers to attempt it as well.
 
 
-Sample input and output has been provided for testing. The sample input is folder 748_50Hz and the sample output is masked_V3_1_denoised_748_50Hz.nii. Use these files to test run the pipeline before making any edits.
+Sample input and output has been provided for testing. The sample input is folder 748_50Hz and the sample output is masked_V3_1_denoised_748_50Hz.nii. Use these files to test run the pipeline before making any edits. The files have been uploaded using Git LFS due to their large size. Please refer to further documentation for retrieval of the sample input and output.
