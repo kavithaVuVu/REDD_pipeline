@@ -15,7 +15,7 @@ test_files = [test_path]
 masks = [mask_path]
 
 # Define the path for saving the masked data
-output_dir = 'save_images'
+output_dir = '<insert path for output folder>'
 # Initialize empty lists for the predictor variables (X) and target variables (y)
 X = None
 y = []
