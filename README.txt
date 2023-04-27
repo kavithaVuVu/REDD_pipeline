@@ -5,9 +5,7 @@ The Removal of Extraneous Data and Denoising Pipeline is a shell script run on H
 The Denoising pipeline was adapted and modified from Pierrick Coupe DWIDenoising Software. Please cite his work when using this pipeline for educational or professional purposes: https://sites.google.com/site/pierrickcoupe/softwares/denoising/dwi-denoising/dwi-denoising-software 
 The Removal of Extraneous was written solely by the Senior Project Group. Please note the package download from Pierrick Coupe was modified to fit our needs. The Mac version of the denoising algorithm was removed but can be retrieved from the link above.
 
-In order to run the pipeline, download the DWI_Denoising Package provided in the github. The package contains all of the scripts necessary to run the pipeline. 
-
-The Denoising script, titled MainDenoising.m, is located in the DWIDenoisingPackage_r01_pcode directory. Thus, it's path is REDD_Pipeline/DWIDenoisingPackage_r01_pcode.
+The Denoising script, titled MainDenoising.m, is located in the DWIDenoisingPackage_r01_pcode directory. Thus, it's path is REDD_Pipeline/DWIDenoisingPackage_r01_pcode. Before running the script, make sure to identify the full path for input and output in both the Denoising and Removal of Extraneous data code.
 
 The code to run the pipeline is as follows:
 
