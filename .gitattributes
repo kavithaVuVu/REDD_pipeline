@@ -1,0 +1,2 @@
+.git filter=lfs diff=lfs merge=lfs -text
+/748_50Hz/*.nii filter=lfs diff=lfs merge=lfs -text
